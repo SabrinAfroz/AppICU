@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451807191215",
+    "project_id": "appicu-1f665",
+    "storage_bucket": "appicu-1f665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451807191215:android:bac44b6d7401ae61a4745a",
+        "android_client_info": {
+          "package_name": "com.example.appicu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx0CB1HZJkJJwCPveYRtew6WfZddx7TIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
